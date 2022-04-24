@@ -18,6 +18,6 @@
         "sass-loader": "7.*"
     },
     "dependencies": {
-        "select2": "^4.0.7"
+        "select2": "^4.0.13"
     }
 }
