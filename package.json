@@ -20,7 +20,7 @@
         "jquery": "^3.6.3",
         "laravel-mix": "^6.0.49",
         "prettier": "^2.8.1",
-        "sass": "^1.56.1",
+        "sass": "^1.79.0",
         "sass-loader": "13.*"
     },
     "dependencies": {
